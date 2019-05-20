@@ -1,0 +1,9 @@
+FIRMWARE
+
+The firmware can be downloaded from the page:
+
+https://github.com/raspberrypi/firmware
+
+Useful information about the booting process can be found here:
+
+https://github.com/dwelch67/raspberrypi/blob/master/baremetal/README
