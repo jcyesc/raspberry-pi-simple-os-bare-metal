@@ -158,7 +158,7 @@ In the directory `src`, execute the following command:
 
 	make
 
-This command is going to generate the `kernel.img`. Copy this file into the SD card that will be used by the Raspberry PI.
+This command is going to generate the `src/kernel.img`. Copy this file into the SD card that will be used by the Raspberry PI.
 
 The SD card must contain the following files at root level:
 
